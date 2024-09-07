@@ -8,4 +8,3 @@
     window.byeSpeaker = byeSpeaker;
 
 })(window);
-k
